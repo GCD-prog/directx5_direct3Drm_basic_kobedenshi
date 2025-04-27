@@ -1,0 +1,2 @@
+# directx5_direct3Drm_basic_kobedenshi
+神戸電子専門学校で,過去の授業で履修して応用作成したプログラム
